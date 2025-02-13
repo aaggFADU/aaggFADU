@@ -12,7 +12,7 @@ JTP en FADU - UBA, donde imparto clases de diseño web abarcando:
 
 ## 💼 Experiencia Profesional
 
-Realizo proyectos freelance que incluyen:
+Realizo proyectos que incluyen:
 * Diseño y desarrollo de sitios web
 * Imagen corporativa
 * Fotografía
