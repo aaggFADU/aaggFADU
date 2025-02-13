@@ -40,6 +40,10 @@ Ejemplos prácticos de HTML y CSS en mi repositorio de recursos para estudiantes
 
 [Ejemplos HTML y CSS](https://aaggfadu.github.io/DGPC-ejemplosNuevos-HTML-CSS/)
 
+"Videitos" presentados a estudiantes de diseño de la FADU-UBA (universidad pública argentina) en la materia DGPC (diseño web) durante la clases de  codificación HYML y CSS, "jugando" con las "cuotas gratis" de herramientas AI y herramientas de Adobe,  y para quebrar el ritmo de la clase:
+
+[videillos para amenizar las clases de HTML y CSS](https://www.youtube.com/@anibalguebel/videos)
+
 ## 🌎 Idiomas
 * Español (nativo)
 * Portugués
