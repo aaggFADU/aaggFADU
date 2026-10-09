@@ -4,11 +4,12 @@ Soy Diseñador Gráfico y Web Designer, apasionado por la educación y el diseñ
 
 ## 🎓 Experiencia Académica
 
-JTP en FADU - UBA, donde imparto clases de diseño web abarcando:
+Profesor Adjunto en FADU - UBA, donde imparto clases de diseño web abarcando:
 * Diseño UX/UI
 * Prototipado
 * Desarrollo front-end
 * Mejores prácticas de diseño web
+* Uso de IA en el flujo de diseño interactivo
 
 ## 💼 Experiencia Profesional
 
